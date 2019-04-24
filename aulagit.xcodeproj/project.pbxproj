@@ -12,6 +12,7 @@
 		56A3888D2270CFB0000CCA73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56A3888B2270CFB0000CCA73 /* Main.storyboard */; };
 		56A3888F2270CFB2000CCA73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56A3888E2270CFB2000CCA73 /* Assets.xcassets */; };
 		56A388922270CFB2000CCA73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56A388902270CFB2000CCA73 /* LaunchScreen.storyboard */; };
+		56A3889A2270D23E000CCA73 /* receita.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A388992270D23E000CCA73 /* receita.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		56A3888E2270CFB2000CCA73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56A388912270CFB2000CCA73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56A388932270CFB2000CCA73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56A388992270D23E000CCA73 /* receita.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = receita.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				56A3888E2270CFB2000CCA73 /* Assets.xcassets */,
 				56A388902270CFB2000CCA73 /* LaunchScreen.storyboard */,
 				56A388932270CFB2000CCA73 /* Info.plist */,
+				56A388992270D23E000CCA73 /* receita.swift */,
 			);
 			path = aulagit;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				56A3888A2270CFB0000CCA73 /* ViewController.swift in Sources */,
 				56A388882270CFB0000CCA73 /* AppDelegate.swift in Sources */,
+				56A3889A2270D23E000CCA73 /* receita.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
